@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera access tutorial</string>
+    <string name="take_a_photo">Take a photo</string>
+</resources>
